@@ -12,7 +12,7 @@ function App() {
     setCount(0)
   }
   return (
-    <div className="App">
+          <div className="App">
      <h1>Counter App</h1>
      <h2>{count}</h2>
      <button className="btn" onClick={Inc}>Increment</button>
